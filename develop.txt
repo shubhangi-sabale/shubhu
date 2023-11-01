@@ -2,3 +2,4 @@ this file belongs to develop branch
 new changes is there
 user 2 has some changes 
 edit the file
+here is the new changes in the file
